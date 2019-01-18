@@ -1,6 +1,7 @@
 # Module 01: Welcome to the DS Nanodegree Program
 
 ## Lesson 01: Welcome to the DS Nanodegree Program
+Learn about what you will build, meet your instructors, and learn how to be successful in the Data Scientist Nanodegree Program! Welcome!
 
 ### Concept 01: Welcome
 
